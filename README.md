@@ -10,3 +10,4 @@
 2. set your export file name to "file1.nessus" and "file2.nessus"
 3. then run with "py merge_nessus.py" #use Python 3.11.4
 4. import "merge_nessus.py" to nessus
+5. export the merge file form nessus then use the NessusGen report
